@@ -145,8 +145,8 @@ Resposta: `HTTP 400 Bad Request`
 ## Estrutura do projeto
 
 ```
-src/main/java/com/example/demo/
-├── DemoApplication.java        # Classe principal
+src/main/java/com/validacao/
+├── ValidacaoApplication.java     # Classe principal
 ├── controller/
 │   └── ValidacaoController.java  # Recebe as requisições HTTP e verifica a chave
 └── dto/
